@@ -32,8 +32,8 @@ pnpm run dev
 
 #### Shashank Pandey
 
-- Github: [@MrSnor](https://github.com/shashank-iter)
-- LinkedIn: [@Partha Priyadarshi Das](https://www.linkedin.com/in/shashank---pandey/)
+- Github: [@shashank-iter](https://github.com/shashank-iter)
+- LinkedIn: [@Shashank Pandey](https://www.linkedin.com/in/shashank---pandey/)
 
 
 ## License
