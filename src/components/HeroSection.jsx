@@ -100,7 +100,7 @@ export default function HeroSection() {
           </Dialog.Panel>
         </Dialog>
       </div>
-      <div className="mx-auto max-w-7xl px-6 py-20 sm:py-28 lg:flex lg:items-center lg:gap-x-10 lg:px-8 lg:py-40">
+      <div className="mx-auto max-w-7xl px-6 py-20 sm:py-20 lg:flex lg:items-center lg:gap-x-10 lg:px-8 lg:py-40">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
           {/* <div className="flex">
             <div className="relative flex items-center gap-x-4 rounded-full py-1 px-4 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
@@ -113,7 +113,7 @@ export default function HeroSection() {
               </a>
             </div>
           </div> */}
-          <h1 className="mt-10 max-w-lg text-4xl font-bold tracking-tight text-indigo-500 sm:text-6xl">
+          <h1 className="mt-10 max-w-lg text-4xl font-bold tracking-tight text-indigo-500 sm:text-6xl sm:min-h-[16rem]">
             <TypeAnimation
               sequence={[
                 // Same substring at the start will only be typed out once, initially
