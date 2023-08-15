@@ -19,13 +19,13 @@ git clone [this repo]
 2. Install dependencies
 
 ``` bash
-pnpm install
+npm install
 ```
 
 3. Start the dev server
 
 ``` bash
-pnpm run dev
+npm run dev
 ```
 
 ## Author
