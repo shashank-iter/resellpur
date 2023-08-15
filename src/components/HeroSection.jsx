@@ -119,7 +119,7 @@ export default function HeroSection() {
                 // Same substring at the start will only be typed out once, initially
                 "Resellpur - Bech de!",
                 2000, // wait 1s before replacing "Mice" with "Hamsters"
-                `Sb kuch Resell kar, Befikar`,
+                `Befikar, Resell kar`,
                 2000,
               ]}
               wrapper="span"
